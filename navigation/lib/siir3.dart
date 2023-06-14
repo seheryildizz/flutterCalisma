@@ -6,7 +6,7 @@ class Siir3 extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title:Text('Red Page'),
+      appBar: AppBar(title:Text('ŞİİR'),
       automaticallyImplyLeading: false,
       backgroundColor:  Colors.purple,
       ),
